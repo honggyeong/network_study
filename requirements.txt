@@ -1,0 +1,35 @@
+# 암호화 관련
+cryptography>=41.0.0
+pycryptodome>=3.19.0
+
+# 네트워크 관련
+aiohttp>=3.9.0
+websockets>=12.0
+p2pnetwork>=1.0.0
+
+# 시스템 모니터링
+psutil>=5.9.0
+
+# 데이터베이스
+sqlalchemy>=2.0.0
+alembic>=1.13.0
+
+# UI
+streamlit>=1.32.0
+streamlit-folium>=0.15.0
+plotly>=5.18.0
+folium>=0.15.0
+matplotlib>=3.8.0
+
+# 유틸리티
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+loguru>=0.7.0
+numpy>=1.24.0
+networkx>=3.1
+scipy>=1.11.0
+
+# 테스트
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0 
